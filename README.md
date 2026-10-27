@@ -1,1 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2RNhpEk-)
+# Agilt projekt – Automatisering
+
+## Om projektet
+
+Projektet genomfördes i kursen Projektledning & Agila metoder. Målet var att förenkla och automatisera det administrativa arbetet för en lärare på Edugrade.
+
+Mål
+
+Att minska manuellt arbete genom att förenkla hanteringen av bilder och dokumentation för deltagare och utbildningstillfällen.
+
+Arbetssätt
+
+Projektet genomfördes under tre sprintar med hjälp av Scrum. Vi använde sprintplanering, dagliga standups, demo-möten och retrospektiv.
+
+Resultat
+
+Projektet gav erfarenhet av agil projektledning, samarbete och utveckling av lösningar utifrån kundens behov.
